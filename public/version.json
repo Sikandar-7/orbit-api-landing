@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "buildNumber": 1,
+  "downloadUrl": "https://orbit-api.vercel.app/app-release.apk",
+  "releaseNotes": "Initial release of Orbit API CRM with advanced WhatsApp features including Inbox, Labels, Multi-media support, and Bot Automation."
+}
