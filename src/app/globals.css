@@ -73,7 +73,7 @@ h1, h2, h3, h4 {
 
 /* Hero Section */
 .hero {
-  padding: 100px 0 80px;
+  padding: 40px 0 60px;
   text-align: center;
   animation: fadeInUp 0.8s ease-out 0.2s both;
 }
