@@ -1,6 +1,4 @@
 {
-  "version": "1.2.1",
-  "buildNumber": 3,
-  "downloadUrl": "https://orbit-api.vercel.app/app-release.apk",
-  "releaseNotes": "Version 1.2.1 Update: Testing the automatic in-app update popup feature."
+  "version": "2.3.0",
+  "release_notes": "Naya Modern Design, Favorites Tab aur Profile me WhatsApp DP ka wazeh option shamil kiya gaya hai."
 }
