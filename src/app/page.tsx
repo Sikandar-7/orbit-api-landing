@@ -9,7 +9,7 @@ export default function Home() {
       </header>
 
       <section className="hero container">
-        <div className="badge">Official Android Release v2.0.0</div>
+        <div className="badge">Official Android Release v2.2.0</div>
         <h1>
           The Ultimate WhatsApp<br />
           Business CRM
