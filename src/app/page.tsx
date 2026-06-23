@@ -3,7 +3,7 @@ export default function Home() {
     <main>
       <header className="header container">
         <div className="logo">
-          <img src="/logo.png" alt="Orbit API Logo" width="40" height="40" style={{ borderRadius: '8px', objectFit: 'cover' }} />
+          <img src="/logo_orbit.jpeg" alt="Orbit API Logo" width="40" height="40" style={{ borderRadius: '8px', objectFit: 'cover' }} />
           Orbit<span>API</span>
         </div>
       </header>

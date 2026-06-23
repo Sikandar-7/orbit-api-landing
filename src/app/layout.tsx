@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "Orbit API - WhatsApp Business App",
   description: "Orbit API - Modern WhatsApp CRM App for your business with real-time sync, auto-replies, and campaign management.",
   icons: {
-    icon: '/logo.png',
+    icon: '/logo_orbit.jpeg',
   },
   openGraph: {
     title: "Orbit API - WhatsApp Business App",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     siteName: "Orbit API",
     images: [
       {
-        url: "/logo.png",
+        url: "/logo_orbit.jpeg",
         width: 512,
         height: 512,
         alt: "Orbit API Logo",
