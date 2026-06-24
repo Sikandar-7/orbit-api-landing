@@ -9,7 +9,7 @@ export default function Home() {
       </header>
 
       <section className="hero container">
-        <div className="badge">Official Android Release v3.0.1</div>
+        <div className="badge">Official Android Release v3.0.2</div>
         <h1>
           The Ultimate WhatsApp<br />
           Business CRM
@@ -19,7 +19,7 @@ export default function Home() {
           Manage conversations, organize leads with custom labels, and automate 
           replies directly from your mobile device.
         </p>
-        <a href="/OrbitAPI_Sikandar_v3.0.1.apk" download className="btn btn-primary">
+        <a href="/OrbitAPI_Sikandar_v3.0.2.apk" download className="btn btn-primary">
           <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
             <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
             <polyline points="7 10 12 15 17 10"></polyline>

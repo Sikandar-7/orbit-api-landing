@@ -1,4 +1,4 @@
 {
-  "version": "3.0.0",
-  "release_notes": "Team Members system, permissions UI, accept invite feature aur message input box UI improvements shamil kiye gaye hain."
+  "version": "3.0.2",
+  "releaseNotes": "✅ WhatsApp jaisi Chat UI\n✅ Long press kar ke Copy/Reply karein\n✅ Dashboard stats theek kiye gaye\n✅ Open/Close/New/Unread chat filters\n✅ Dark Mode + Side menu improvements"
 }
